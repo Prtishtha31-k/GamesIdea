@@ -1,0 +1,30 @@
+#game_title
+evil_run
+
+
+## Concept
+A team of researchers must be sent to the house at 3 am , rescue important files , equipments,sometimes people ;all together kill the evil residing in the bunglow and runout . there will be levels , each level will be harder and reward points will be there too.
+
+
+## Gameplay
+players objective is to have fun and thrill alone or maybe with friends , be a good team member, and do the job assigned to win points and upgrade their level!
+
+## Unique Features
+(What makes your game different or exciting?)
+unique features : players can comunicate each others using microphones. game is full with horror and thrill. can also stream online and play with people from whole world!
+
+## Target Audience
+(Who is this game for? Age group, interests, etc.)
+this game is designed for age group 12 to any age , similar interests for early teens and teenagers
+
+## Art Style & Theme
+(Optional – describe the visual style, tone, or theme.)
+horror: black , spooky vibes , blood , skeletals , candels, bible,holy cross,video tapes , dolls , witchcrafts , documents, equipments carried by researchers etc
+
+## Inspiration
+(What inspired you? Any similar games or concepts?)
+granny, residential_evil 
+
+## Tools or Platforms (Optional)
+(Do you imagine this being built in Unity, Unreal, web, mobile, etc.?)
+nil
